@@ -1,3 +1,5 @@
+// ekti pointer variable onno ekti variable er address ke store kore.
+
 #include <stdio.h>
 
 int main() {
