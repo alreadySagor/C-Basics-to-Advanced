@@ -14,5 +14,3 @@ int main() {
     printf("%d\n", fun(&a, &b));
     return 0;
 }
-
-// updated
