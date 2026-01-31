@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// pointer
 int main() {
     int x = 10;
     int y;
@@ -20,4 +20,3 @@ int main() {
     
     return 0;
 }
-// hello
